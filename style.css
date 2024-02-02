@@ -1,0 +1,246 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul, li, menu  {
+    list-style: none;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto ;
+}
+
+.padding_container {
+    padding: 15px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container_padding {
+    padding: 10px;
+}
+
+.logo {
+    justify-content:flex-start;
+}
+
+a {
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+    margin: 15px;
+}
+
+.flex_nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+}
+
+
+.login {
+    justify-content: flex-end;
+}
+
+.navbar_background {
+    background-color: #255EE9;
+    background-size: cover;
+    background-position: center;
+}
+
+.background_pink {
+    width: 750px;
+
+    background-color: pink;
+}
+
+.background_white {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.background_night {
+    background-color: rgb(19, 19, 72);
+    padding: 20px;
+}
+
+.background_blue {
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.background_pink_blue {
+    background-color: blueviolet;
+}
+
+.background_green {
+    background-color: green;
+}
+
+.background_container {
+    background-color: grey;
+    padding: 30px;
+}
+
+.flex_color {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex_green {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.flex_prova {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button_flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.class60 {
+    width: 60%;
+}
+
+.class50 {
+    width: 50%;
+}
+
+.background_grey {
+    background-color: #F6F6F6;
+    padding: 30px;
+}
+
+.class40 {
+    width: 40%;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.class10 {
+    line-height: 20px;
+    width: 10%;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: cadetblue;
+    padding: 10px 0px;
+}
+
+.background_home {
+    background-image: url(jumbo.png);
+    background-size: cover; 
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.homr_flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.intro {
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.central_text {
+    text-align: center;
+    padding: 50px;
+    background-color: #F6F6F6;
+}
+
+.button_white {
+    background-color: white;
+    padding: 10px;
+    border-radius: 25px;
+    border: none;
+}
+
+.button_azure {
+    background-color: #8EA1E1;
+    padding: 10px;
+    border-radius: 25px;
+    border: none;
+}
+
+.flex_test {
+    display: flex;
+  align-items: center;
+}
+
+.button_margin {
+    margin-bottom: 20px;
+}
+
+.background_text {
+    background-image: url(jumbo.png);
+    padding: 30px;
+    text-align: center;
+    align-items: center;
+}
+
+.mac_button {
+    margin-right: 15px;
+    padding: 10px;
+    border-radius: 25px;
+    border: none;
+}
+
+.discord_button {
+    margin-left: 15px;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+.margin_section {
+ margin-top: 30px;
+ margin-bottom: 30px;
+}
+
+.background_footer {
+    background-color: #23272A;
+    padding: 25px;
+    color: white;
+}
+
+.footer_blu {
+    color: #7289DB;
+}
+    
+    
+    
